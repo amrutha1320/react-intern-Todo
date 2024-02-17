@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+![image](https://github.com/amrutha1320/react-intern/assets/134827744/ed37e388-b43c-4593-9ebf-6ac54b41af39)
+
+#
+![image](https://github.com/amrutha1320/react-intern/assets/134827744/fae28ed9-9c03-4494-ab16-e7c5da278be9)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
